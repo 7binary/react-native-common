@@ -1,5 +1,5 @@
 {
-  "name": "@pmk-team/common",
+  "name": "react-native-common",
   "version": "1.0.100",
   "description": "",
   "main": "./build/index.js",
